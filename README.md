@@ -1,6 +1,7 @@
 ## About me
-I am [Shahab](shahabbng1999@gmail.com), a Web and Mobile developer from Pakistan. I also work on ML projects which includes object detection and classification using Keras and Tensorflow.
+I am a Web and Mobile developer from Pakistan. I also work on ML projects which includes object detection and classification using Keras and Tensorflow.
 
+You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1], or you can [email me directly](shahabbng1999@gmail.com).
 
 ### 📊 GitHub Stats
 ***
@@ -44,7 +45,6 @@ I am [Shahab](shahabbng1999@gmail.com), a Web and Mobile developer from Pakistan
 ![SQLite](https://img.shields.io/badge/DB-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 
