@@ -15,7 +15,7 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=white)
-![Node](https://img.shields.io/badge/Node-informational?style=flate&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node-informational?style=flate&logo=node.js&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white)
