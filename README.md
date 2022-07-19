@@ -26,11 +26,11 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 ![Numpy](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white)
 
-![C++](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&logo=cpp&logoColor=white)
-![C](https://img.shields.io/badge/Language-C-informational?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=cpp&logoColor=white)
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white)
 
 ![Flask](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/Library-OpenCV-informational?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white)
 ![GIT](https://img.shields.io/badge/VersionControl-GIT-informational?style=flate&logo=git&logoColor=white)
