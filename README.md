@@ -1,5 +1,5 @@
 ## About me
-I am a Full Stack developer from Pakistan. Currently, I am working on MEAN/MERN Stack but I had also worked on Machine Learing projects - including object detection and classification using Keras and Tensorflow.
+I am a Full Stack developer from Pakistan. Currently, working on MEAN/MERN Stack. I had also worked on Machine Learing projects - including object detection and classification using Keras and Tensorflow.
 
 You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1], or you can [email me directly](shahabbng1999@gmail.com).
 
