@@ -12,7 +12,8 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 ![Typescript](https://img.shields.io/badge/Language-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Framework-Express-informational?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&logoColor=white)
+
+![React]https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white)
 ![Node](https://img.shields.io/badge/Framework-Node-informational?style=for-the-badge&logo=node.js&logoColor=white)
 
