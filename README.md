@@ -5,7 +5,8 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 
 ### 📊 GitHub Stats
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabBngsh)](https://github.com/ShahabBngsh/github-readme-stats&count_private=true) [![Shahab GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabBngsh&count_private=true&hide=issues,contribs,stars&show_icons=true)](https://github.com/ShahabBngsh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabBngsh&theme=gotham)](https://github.com/ShahabBngsh/github-readme-stats&count_private=true) 
+[![Shahab GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabBngsh&count_private=true&hide=issues,contribs,stars&show_icons=true&theme=gotham)](https://github.com/ShahabBngsh/github-readme-stats)
 
 ### 🔧 Languages & Tools
 ***
