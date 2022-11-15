@@ -1,5 +1,5 @@
 ## About me
-I am a Full Stack developer, currently working on MEAN/MERN Stack. I had also worked on Machine Learing projects - including object detection and classification using Keras and Tensorflow.
+I am a Software Engineer, currently working on [Billgist (an AWS billing alert application)](https://www.billgist.com/) built with AWS, React and Python.
 
 You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1], or you can [email me directly](shahabbng1999@gmail.com).
 
@@ -10,6 +10,11 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 
 ### 🔧 Languages & Tools
 ***
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -17,7 +22,7 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
@@ -27,9 +32,6 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv&logoColor=white)
