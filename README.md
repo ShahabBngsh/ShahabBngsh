@@ -1,12 +1,20 @@
 ## About me
-I am a Software Engineer, currently working on [Billgist (an AWS billing alert application)](https://www.billgist.com/) built with AWS, React and Python.
+I am a passionate Software Engineer.
 
-You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1], or you can [email me directly](shahabbng1999@gmail.com).
+- 🔭 I’m currently working on [Billgist, an AWS billing alert application](www.billgist.com)
+
+- 🌱 I’m currently learning *AWS, NGINX and GraphQL*
+
+- 📫 How to reach me **shahabbng1999@gmail.com**, [LinkedIn ](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1]
 
 ### 📊 GitHub Stats
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahabBngsh&theme=gotham)](https://github.com/ShahabBngsh/github-readme-stats&count_private=true) 
-[![Shahab GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahabBngsh&count_private=true&hide=issues,contribs,stars&show_icons=true&theme=gotham)](https://github.com/ShahabBngsh/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabbngsh&theme=dark" alt="shahabbngsh" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahabbngsh&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="shahabbngsh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahabbngsh&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en" alt="shahabbngsh" /></p>
 
 ### 🔧 Languages & Tools
 ***
@@ -43,6 +51,7 @@ You can find me on [Linked](https://www.linkedin.com/in/shahab-bangash/)[![Linke
 ![Figma](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white)
 
 ---
+
 
 <!-- Icons -->
 
