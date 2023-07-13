@@ -1,7 +1,7 @@
 ## About me
 I am a passionate software engineer and full stack developer.
 
-- 🔭 I’m currently working on [Billgist, an AWS billing alert application](www.billgist.com)
+- 🔭 I’m currently working on [Billgist, an AWS billing alert application](https://www.billgist.com)
 
 - 🌱 I’m currently learning *AWS, NGINX and GraphQL*
 
