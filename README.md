@@ -1,5 +1,5 @@
 ## About me
-I am a passionate Software Engineer.
+I am a passionate software engineer and full stack developer.
 
 - 🔭 I’m currently working on [Billgist, an AWS billing alert application](www.billgist.com)
 
