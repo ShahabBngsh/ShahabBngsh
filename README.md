@@ -3,9 +3,9 @@ I am a passionate software engineer and full-stack developer.
 
 - 🔭 I’m currently working on [Billgist, an AWS billing alert application](https://www.billgist.com)
 
-- 🌱 I’m currently learning *AWS*
+- 🌱 I’m currently learning *AWS and Django*
 
-- 📫 You can contact me **shahabbng1999@gmail.com**, [LinkedIn ](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1]
+- 📫 You can contact me at **shahabbng1999@gmail.com**, [LinkedIn ](https://www.linkedin.com/in/shahab-bangash/)[![LinkedIn][1.1]][1]
 
 ### 📊 GitHub Stats
 ***
