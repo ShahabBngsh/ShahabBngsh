@@ -11,10 +11,7 @@ I am a passionate software engineer and full-stack developer.
 ***
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabbngsh&theme=dark" alt="shahabbngsh" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahabbngsh&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="shahabbngsh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahabbngsh&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en" alt="shahabbngsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-three-xi-57.vercel.app/api?username=shahabbngsh&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en" alt="shahabbngsh" /></p>
 
 ### 🔧 Languages & Tools
 ***
