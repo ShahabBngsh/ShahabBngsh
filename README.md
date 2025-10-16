@@ -7,7 +7,6 @@ Fullstack Engineer experienced in Python (Flask, FastAPI), REST APIs, ReactJS an
 ***
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabbngsh&theme=dark" alt="shahabbngsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-three-xi-57.vercel.app/api?username=shahabbngsh&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en" alt="shahabbngsh" /></p>
 
 ### 🔧 Languages & Tools
 ***
